@@ -42,6 +42,7 @@ PLATFORM_MAPPING = {
     'win32': 'win',
     'aix6': 'aix',
     'aix7': 'aix',
+    'os400': 'aix', # we run an aix emulator called PACE
 }
 
 
