@@ -1278,6 +1278,7 @@ _PLATFORM_MAPPING = {
   'win32': 'win',
   'aix6': 'aix',
   'aix7': 'aix',
+  'os400': 'aix',
 }
 
 
